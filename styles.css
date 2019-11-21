@@ -1,4 +1,10 @@
 .jumbotron{
     height:90vh ;
-    background-image: url(jumbo.jpg);
+    background-image: url(elephant_main.jpg);
+    background-size: cover;
+    background-position-y: center;
 }
+html {
+    scroll-behavior: smooth;
+}
+ 
